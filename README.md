@@ -1,2 +1,2 @@
-# BarrePadilla
-Repositorio examen
+# GestionSoftware
+Para la asignatua de Gestion de Software
